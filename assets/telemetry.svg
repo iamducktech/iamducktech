@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 280" width="100%" height="100%">
+  <rect width="920" height="280" rx="12" fill="#050505"/>
+  <rect x="1" y="1" width="918" height="278" rx="11" fill="#080808" stroke="#202722" stroke-width="1"/>
+
+  <!-- Telemetry Header -->
+  <g transform="translate(32, 28)">
+    <text x="0" y="14" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="2">06 // OBSERVABILITY</text>
+    <text x="0" y="34" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="18" font-weight="800" letter-spacing="1">GITHUB TELEMETRY</text>
+    
+    <g transform="translate(680, 26)">
+      <circle cx="0" cy="0" r="3.5" fill="#AFE746"/>
+      <text x="12" y="3.5" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="10" letter-spacing="1">SAMPLING: LIVE</text>
+    </g>
+  </g>
+  <line x1="32" y1="74" x2="888" y2="74" stroke="#202722" stroke-width="1"/>
+
+  <!-- Telemetry 5 Metric Columns -->
+  <g transform="translate(32, 94)">
+    <!-- Column 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="158" height="152" rx="6" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+      <text x="16" y="24" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="1">METRIC_01</text>
+      <text x="16" y="44" fill="#B8C0BA" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600">CONTRIBUTIONS</text>
+      <text x="16" y="90" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="800">--</text>
+      <text x="16" y="128" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="9.5">ANNUAL TOTAL</text>
+    </g>
+
+    <!-- Column 2 -->
+    <g transform="translate(176, 0)">
+      <rect width="158" height="152" rx="6" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+      <text x="16" y="24" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="1">METRIC_02</text>
+      <text x="16" y="44" fill="#B8C0BA" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600">COMMITS</text>
+      <text x="16" y="90" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="800">--</text>
+      <text x="16" y="128" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="9.5">PUSH FREQUENCY</text>
+    </g>
+
+    <!-- Column 3 -->
+    <g transform="translate(352, 0)">
+      <rect width="158" height="152" rx="6" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+      <text x="16" y="24" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="1">METRIC_03</text>
+      <text x="16" y="44" fill="#B8C0BA" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600">PULL REQUESTS</text>
+      <text x="16" y="90" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="800">--</text>
+      <text x="16" y="128" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="9.5">MERGED / ACTIVE</text>
+    </g>
+
+    <!-- Column 4 -->
+    <g transform="translate(528, 0)">
+      <rect width="158" height="152" rx="6" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+      <text x="16" y="24" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="1">METRIC_04</text>
+      <text x="16" y="44" fill="#B8C0BA" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600">ISSUES RESOLVED</text>
+      <text x="16" y="90" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="800">--</text>
+      <text x="16" y="128" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="9.5">CLOSED TICKETS</text>
+    </g>
+
+    <!-- Column 5 -->
+    <g transform="translate(704, 0)">
+      <rect width="152" height="152" rx="6" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+      <text x="16" y="24" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="700" letter-spacing="1">METRIC_05</text>
+      <text x="16" y="44" fill="#B8C0BA" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600">REPOSITORIES</text>
+      <text x="16" y="90" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="800">--</text>
+      <text x="16" y="128" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="9.5">PUBLIC / SOURCES</text>
+    </g>
+  </g>
+</svg>
