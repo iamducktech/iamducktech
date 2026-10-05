@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 440" width="100%" height="100%">
+  <rect width="920" height="440" rx="12" fill="#050505"/>
+  <rect x="1" y="1" width="918" height="438" rx="11" fill="#080808" stroke="#202722" stroke-width="1"/>
+
+  <!-- Section Header -->
+  <g transform="translate(32, 28)">
+    <text x="0" y="14" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="2">03 // CORE CAPABILITIES</text>
+    <text x="0" y="34" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="18" font-weight="800" letter-spacing="1">WHAT I BUILD</text>
+  </g>
+  <line x1="32" y1="78" x2="888" y2="78" stroke="#202722" stroke-width="1"/>
+
+  <!-- 4 Primary Cards (2x2 Grid) -->
+
+  <!-- CARD 01: WEB -->
+  <g transform="translate(32, 98)">
+    <rect width="418" height="150" rx="8" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+    <rect x="0" y="0" width="418" height="3" fill="#AFE746" rx="1"/>
+    
+    <text x="24" y="32" fill="#7FAF32" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="800">01</text>
+    <text x="50" y="32" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="15" font-weight="800" letter-spacing="1">WEB</text>
+    <text x="24" y="52" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600">Platforms &amp; Products</text>
+    
+    <text x="24" y="80" fill="#B8C0BA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400">
+      Full-stack applications, marketplaces, dashboards and
+    </text>
+    <text x="24" y="98" fill="#B8C0BA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400">
+      production web services.
+    </text>
+    
+    <text x="24" y="130" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="600" letter-spacing="0.5">
+      STACK // <tspan fill="#B8C0BA">React · Next.js · Node.js</tspan>
+    </text>
+  </g>
+
+  <!-- CARD 02: SYSTEMS -->
+  <g transform="translate(470, 98)">
+    <rect width="418" height="150" rx="8" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+    <rect x="0" y="0" width="418" height="3" fill="#AFE746" rx="1"/>
+
+    <text x="24" y="32" fill="#7FAF32" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="800">02</text>
+    <text x="50" y="32" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="15" font-weight="800" letter-spacing="1">SYSTEMS</text>
+    <text x="24" y="52" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600">Infrastructure &amp; Servers</text>
+
+    <text x="24" y="80" fill="#B8C0BA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400">
+      Game servers, networking, real-time communication and
+    </text>
+    <text x="24" y="98" fill="#B8C0BA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400">
+      performance-focused systems.
+    </text>
+
+    <text x="24" y="130" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="600" letter-spacing="0.5">
+      STACK // <tspan fill="#B8C0BA">C++ · Sockets · Linux</tspan>
+    </text>
+  </g>
+
+  <!-- CARD 03: AUTOMATION -->
+  <g transform="translate(32, 266)">
+    <rect width="418" height="150" rx="8" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+    <rect x="0" y="0" width="418" height="3" fill="#AFE746" rx="1"/>
+
+    <text x="24" y="32" fill="#7FAF32" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="800">03</text>
+    <text x="50" y="32" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="15" font-weight="800" letter-spacing="1">AUTOMATION</text>
+    <text x="24" y="52" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600">Tools &amp; Workflows</text>
+
+    <text x="24" y="80" fill="#B8C0BA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400">
+      Software that watches, reacts, processes and eliminates
+    </text>
+    <text x="24" y="98" fill="#B8C0BA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400">
+      repetitive work.
+    </text>
+
+    <text x="24" y="130" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="600" letter-spacing="0.5">
+      STACK // <tspan fill="#B8C0BA">TypeScript · APIs · Automation</tspan>
+    </text>
+  </g>
+
+  <!-- CARD 04: GAME TECH -->
+  <g transform="translate(470, 266)">
+    <rect width="418" height="150" rx="8" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+    <rect x="0" y="0" width="418" height="3" fill="#AFE746" rx="1"/>
+
+    <text x="24" y="32" fill="#7FAF32" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="800">04</text>
+    <text x="50" y="32" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="15" font-weight="800" letter-spacing="1">GAME TECH</text>
+    <text x="24" y="52" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600">Competitive &amp; Game Infrastructure</text>
+
+    <text x="24" y="80" fill="#B8C0BA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400">
+      Tools, services and systems built around competitive games,
+    </text>
+    <text x="24" y="98" fill="#B8C0BA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400">
+      real-time data and gaming platforms.
+    </text>
+
+    <text x="24" y="130" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="600" letter-spacing="0.5">
+      STACK // <tspan fill="#B8C0BA">Game APIs · WebSocket · Networking</tspan>
+    </text>
+  </g>
+</svg>
