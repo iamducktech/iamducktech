@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 230" width="100%" height="100%">
+  <defs>
+    <!-- Intensity levels -->
+    <style>
+      .lvl-0 { fill: #101412; }
+      .lvl-1 { fill: #202722; }
+      .lvl-2 { fill: #3F571B; }
+      .lvl-3 { fill: #7FAF32; }
+      .lvl-4 { fill: #AFE746; }
+    </style>
+  </defs>
+
+  <rect width="920" height="230" rx="12" fill="#050505"/>
+  <rect x="1" y="1" width="918" height="228" rx="11" fill="#080808" stroke="#202722" stroke-width="1"/>
+
+  <!-- Module Header -->
+  <g transform="translate(32, 26)">
+    <text x="0" y="14" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="2">07 // ACTIVITY MATRIX</text>
+    <text x="0" y="34" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="17" font-weight="800" letter-spacing="1">CONTRIBUTION PATTERN [VISUAL COMPONENT]</text>
+  </g>
+  <line x1="32" y1="72" x2="888" y2="72" stroke="#202722" stroke-width="1"/>
+
+  <!-- Contribution Heatmap Container -->
+  <g transform="translate(32, 88)">
+    <!-- Week 01 -->
+    <g transform="translate(0, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-0"/><rect y="16" width="12" height="12" rx="2" class="lvl-1"/><rect y="32" width="12" height="12" rx="2" class="lvl-2"/><rect y="48" width="12" height="12" rx="2" class="lvl-0"/><rect y="64" width="12" height="12" rx="2" class="lvl-1"/><rect y="80" width="12" height="12" rx="2" class="lvl-0"/><rect y="96" width="12" height="12" rx="2" class="lvl-3"/>
+    </g>
+    <!-- Week 02 -->
+    <g transform="translate(17, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-1"/><rect y="16" width="12" height="12" rx="2" class="lvl-2"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-1"/><rect y="64" width="12" height="12" rx="2" class="lvl-0"/><rect y="80" width="12" height="12" rx="2" class="lvl-2"/><rect y="96" width="12" height="12" rx="2" class="lvl-4"/>
+    </g>
+    <!-- Week 03 -->
+    <g transform="translate(34, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-2"/><rect y="16" width="12" height="12" rx="2" class="lvl-3"/><rect y="32" width="12" height="12" rx="2" class="lvl-1"/><rect y="48" width="12" height="12" rx="2" class="lvl-4"/><rect y="64" width="12" height="12" rx="2" class="lvl-3"/><rect y="80" width="12" height="12" rx="2" class="lvl-1"/><rect y="96" width="12" height="12" rx="2" class="lvl-0"/>
+    </g>
+    <!-- Week 04 -->
+    <g transform="translate(51, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-0"/><rect y="16" width="12" height="12" rx="2" class="lvl-1"/><rect y="32" width="12" height="12" rx="2" class="lvl-2"/><rect y="48" width="12" height="12" rx="2" class="lvl-2"/><rect y="64" width="12" height="12" rx="2" class="lvl-4"/><rect y="80" width="12" height="12" rx="2" class="lvl-3"/><rect y="96" width="12" height="12" rx="2" class="lvl-1"/>
+    </g>
+    <!-- Week 05 -->
+    <g transform="translate(68, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-3"/><rect y="16" width="12" height="12" rx="2" class="lvl-4"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-3"/><rect y="64" width="12" height="12" rx="2" class="lvl-1"/><rect y="80" width="12" height="12" rx="2" class="lvl-0"/><rect y="96" width="12" height="12" rx="2" class="lvl-2"/>
+    </g>
+    <!-- Week 06 -->
+    <g transform="translate(85, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-1"/><rect y="16" width="12" height="12" rx="2" class="lvl-0"/><rect y="32" width="12" height="12" rx="2" class="lvl-2"/><rect y="48" width="12" height="12" rx="2" class="lvl-4"/><rect y="64" width="12" height="12" rx="2" class="lvl-2"/><rect y="80" width="12" height="12" rx="2" class="lvl-1"/><rect y="96" width="12" height="12" rx="2" class="lvl-3"/>
+    </g>
+    <!-- Week 07 -->
+    <g transform="translate(102, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-0"/><rect y="16" width="12" height="12" rx="2" class="lvl-2"/><rect y="32" width="12" height="12" rx="2" class="lvl-3"/><rect y="48" width="12" height="12" rx="2" class="lvl-1"/><rect y="64" width="12" height="12" rx="2" class="lvl-0"/><rect y="80" width="12" height="12" rx="2" class="lvl-4"/><rect y="96" width="12" height="12" rx="2" class="lvl-2"/>
+    </g>
+    <!-- Week 08 -->
+    <g transform="translate(119, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-2"/><rect y="16" width="12" height="12" rx="2" class="lvl-4"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-3"/><rect y="64" width="12" height="12" rx="2" class="lvl-2"/><rect y="80" width="12" height="12" rx="2" class="lvl-0"/><rect y="96" width="12" height="12" rx="2" class="lvl-1"/>
+    </g>
+    <!-- Week 09 -->
+    <g transform="translate(136, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-1"/><rect y="16" width="12" height="12" rx="2" class="lvl-1"/><rect y="32" width="12" height="12" rx="2" class="lvl-0"/><rect y="48" width="12" height="12" rx="2" class="lvl-2"/><rect y="64" width="12" height="12" rx="2" class="lvl-3"/><rect y="80" width="12" height="12" rx="2" class="lvl-4"/><rect y="96" width="12" height="12" rx="2" class="lvl-2"/>
+    </g>
+    <!-- Week 10 -->
+    <g transform="translate(153, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-3"/><rect y="16" width="12" height="12" rx="2" class="lvl-2"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-1"/><rect y="64" width="12" height="12" rx="2" class="lvl-0"/><rect y="80" width="12" height="12" rx="2" class="lvl-1"/><rect y="96" width="12" height="12" rx="2" class="lvl-0"/>
+    </g>
+    <!-- Week 11 -->
+    <g transform="translate(170, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-0"/><rect y="16" width="12" height="12" rx="2" class="lvl-0"/><rect y="32" width="12" height="12" rx="2" class="lvl-1"/><rect y="48" width="12" height="12" rx="2" class="lvl-3"/><rect y="64" width="12" height="12" rx="2" class="lvl-4"/><rect y="80" width="12" height="12" rx="2" class="lvl-2"/><rect y="96" width="12" height="12" rx="2" class="lvl-3"/>
+    </g>
+    <!-- Week 12 -->
+    <g transform="translate(187, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-1"/><rect y="16" width="12" height="12" rx="2" class="lvl-3"/><rect y="32" width="12" height="12" rx="2" class="lvl-2"/><rect y="48" width="12" height="12" rx="2" class="lvl-4"/><rect y="64" width="12" height="12" rx="2" class="lvl-1"/><rect y="80" width="12" height="12" rx="2" class="lvl-0"/><rect y="96" width="12" height="12" rx="2" class="lvl-2"/>
+    </g>
+    <!-- Week 13 -->
+    <g transform="translate(204, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-4"/><rect y="16" width="12" height="12" rx="2" class="lvl-4"/><rect y="32" width="12" height="12" rx="2" class="lvl-3"/><rect y="48" width="12" height="12" rx="2" class="lvl-2"/><rect y="64" width="12" height="12" rx="2" class="lvl-1"/><rect y="80" width="12" height="12" rx="2" class="lvl-0"/><rect y="96" width="12" height="12" rx="2" class="lvl-1"/>
+    </g>
+    <!-- Week 14 -->
+    <g transform="translate(221, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-2"/><rect y="16" width="12" height="12" rx="2" class="lvl-0"/><rect y="32" width="12" height="12" rx="2" class="lvl-1"/><rect y="48" width="12" height="12" rx="2" class="lvl-3"/><rect y="64" width="12" height="12" rx="2" class="lvl-4"/><rect y="80" width="12" height="12" rx="2" class="lvl-2"/><rect y="96" width="12" height="12" rx="2" class="lvl-4"/>
+    </g>
+    <!-- Week 15 -->
+    <g transform="translate(238, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-1"/><rect y="16" width="12" height="12" rx="2" class="lvl-2"/><rect y="32" width="12" height="12" rx="2" class="lvl-3"/><rect y="48" width="12" height="12" rx="2" class="lvl-0"/><rect y="64" width="12" height="12" rx="2" class="lvl-2"/><rect y="80" width="12" height="12" rx="2" class="lvl-4"/><rect y="96" width="12" height="12" rx="2" class="lvl-1"/>
+    </g>
+    <!-- Week 16 -->
+    <g transform="translate(255, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-0"/><rect y="16" width="12" height="12" rx="2" class="lvl-4"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-3"/><rect y="64" width="12" height="12" rx="2" class="lvl-2"/><rect y="80" width="12" height="12" rx="2" class="lvl-1"/><rect y="96" width="12" height="12" rx="2" class="lvl-0"/>
+    </g>
+    <!-- Week 17 -->
+    <g transform="translate(272, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-3"/><rect y="16" width="12" height="12" rx="2" class="lvl-1"/><rect y="32" width="12" height="12" rx="2" class="lvl-0"/><rect y="48" width="12" height="12" rx="2" class="lvl-2"/><rect y="64" width="12" height="12" rx="2" class="lvl-4"/><rect y="80" width="12" height="12" rx="2" class="lvl-3"/><rect y="96" width="12" height="12" rx="2" class="lvl-2"/>
+    </g>
+    <!-- Week 18 -->
+    <g transform="translate(289, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-1"/><rect y="16" width="12" height="12" rx="2" class="lvl-3"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-2"/><rect y="64" width="12" height="12" rx="2" class="lvl-0"/><rect y="80" width="12" height="12" rx="2" class="lvl-1"/><rect y="96" width="12" height="12" rx="2" class="lvl-4"/>
+    </g>
+    <!-- Week 19 -->
+    <g transform="translate(306, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-2"/><rect y="16" width="12" height="12" rx="2" class="lvl-2"/><rect y="32" width="12" height="12" rx="2" class="lvl-1"/><rect y="48" width="12" height="12" rx="2" class="lvl-4"/><rect y="64" width="12" height="12" rx="2" class="lvl-3"/><rect y="80" width="12" height="12" rx="2" class="lvl-0"/><rect y="96" width="12" height="12" rx="2" class="lvl-1"/>
+    </g>
+    <!-- Week 20 -->
+    <g transform="translate(323, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-0"/><rect y="16" width="12" height="12" rx="2" class="lvl-1"/><rect y="32" width="12" height="12" rx="2" class="lvl-3"/><rect y="48" width="12" height="12" rx="2" class="lvl-4"/><rect y="64" width="12" height="12" rx="2" class="lvl-4"/><rect y="80" width="12" height="12" rx="2" class="lvl-2"/><rect y="96" width="12" height="12" rx="2" class="lvl-0"/>
+    </g>
+    <!-- Week 21 -->
+    <g transform="translate(340, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-3"/><rect y="16" width="12" height="12" rx="2" class="lvl-4"/><rect y="32" width="12" height="12" rx="2" class="lvl-2"/><rect y="48" width="12" height="12" rx="2" class="lvl-1"/><rect y="64" width="12" height="12" rx="2" class="lvl-0"/><rect y="80" width="12" height="12" rx="2" class="lvl-2"/><rect y="96" width="12" height="12" rx="2" class="lvl-4"/>
+    </g>
+    <!-- Week 22 -->
+    <g transform="translate(357, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-2"/><rect y="16" width="12" height="12" rx="2" class="lvl-0"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-3"/><rect y="64" width="12" height="12" rx="2" class="lvl-1"/><rect y="80" width="12" height="12" rx="2" class="lvl-0"/><rect y="96" width="12" height="12" rx="2" class="lvl-3"/>
+    </g>
+    <!-- Week 23 -->
+    <g transform="translate(374, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-1"/><rect y="16" width="12" height="12" rx="2" class="lvl-2"/><rect y="32" width="12" height="12" rx="2" class="lvl-1"/><rect y="48" width="12" height="12" rx="2" class="lvl-4"/><rect y="64" width="12" height="12" rx="2" class="lvl-4"/><rect y="80" width="12" height="12" rx="2" class="lvl-3"/><rect y="96" width="12" height="12" rx="2" class="lvl-2"/>
+    </g>
+    <!-- Week 24 -->
+    <g transform="translate(391, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-4"/><rect y="16" width="12" height="12" rx="2" class="lvl-3"/><rect y="32" width="12" height="12" rx="2" class="lvl-2"/><rect y="48" width="12" height="12" rx="2" class="lvl-0"/><rect y="64" width="12" height="12" rx="2" class="lvl-2"/><rect y="80" width="12" height="12" rx="2" class="lvl-1"/><rect y="96" width="12" height="12" rx="2" class="lvl-0"/>
+    </g>
+    <!-- Week 25 -->
+    <g transform="translate(408, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-0"/><rect y="16" width="12" height="12" rx="2" class="lvl-1"/><rect y="32" width="12" height="12" rx="2" class="lvl-3"/><rect y="48" width="12" height="12" rx="2" class="lvl-4"/><rect y="64" width="12" height="12" rx="2" class="lvl-2"/><rect y="80" width="12" height="12" rx="2" class="lvl-4"/><rect y="96" width="12" height="12" rx="2" class="lvl-1"/>
+    </g>
+    <!-- Week 26 -->
+    <g transform="translate(425, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-2"/><rect y="16" width="12" height="12" rx="2" class="lvl-4"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-1"/><rect y="64" width="12" height="12" rx="2" class="lvl-0"/><rect y="80" width="12" height="12" rx="2" class="lvl-3"/><rect y="96" width="12" height="12" rx="2" class="lvl-2"/>
+    </g>
+    <!-- Week 27 -->
+    <g transform="translate(442, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-1"/><rect y="16" width="12" height="12" rx="2" class="lvl-0"/><rect y="32" width="12" height="12" rx="2" class="lvl-2"/><rect y="48" width="12" height="12" rx="2" class="lvl-3"/><rect y="64" width="12" height="12" rx="2" class="lvl-4"/><rect y="80" width="12" height="12" rx="2" class="lvl-2"/><rect y="96" width="12" height="12" rx="2" class="lvl-0"/>
+    </g>
+    <!-- Week 28 -->
+    <g transform="translate(459, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-3"/><rect y="16" width="12" height="12" rx="2" class="lvl-1"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-4"/><rect y="64" width="12" height="12" rx="2" class="lvl-3"/><rect y="80" width="12" height="12" rx="2" class="lvl-1"/><rect y="96" width="12" height="12" rx="2" class="lvl-2"/>
+    </g>
+    <!-- Week 29 -->
+    <g transform="translate(476, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-0"/><rect y="16" width="12" height="12" rx="2" class="lvl-2"/><rect y="32" width="12" height="12" rx="2" class="lvl-1"/><rect y="48" width="12" height="12" rx="2" class="lvl-0"/><rect y="64" width="12" height="12" rx="2" class="lvl-2"/><rect y="80" width="12" height="12" rx="2" class="lvl-4"/><rect y="96" width="12" height="12" rx="2" class="lvl-3"/>
+    </g>
+    <!-- Week 30 -->
+    <g transform="translate(493, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-2"/><rect y="16" width="12" height="12" rx="2" class="lvl-3"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-2"/><rect y="64" width="12" height="12" rx="2" class="lvl-1"/><rect y="80" width="12" height="12" rx="2" class="lvl-0"/><rect y="96" width="12" height="12" rx="2" class="lvl-1"/>
+    </g>
+    <!-- Week 31 -->
+    <g transform="translate(510, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-4"/><rect y="16" width="12" height="12" rx="2" class="lvl-1"/><rect y="32" width="12" height="12" rx="2" class="lvl-2"/><rect y="48" width="12" height="12" rx="2" class="lvl-3"/><rect y="64" width="12" height="12" rx="2" class="lvl-4"/><rect y="80" width="12" height="12" rx="2" class="lvl-2"/><rect y="96" width="12" height="12" rx="2" class="lvl-0"/>
+    </g>
+    <!-- Week 32 -->
+    <g transform="translate(527, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-1"/><rect y="16" width="12" height="12" rx="2" class="lvl-0"/><rect y="32" width="12" height="12" rx="2" class="lvl-3"/><rect y="48" width="12" height="12" rx="2" class="lvl-4"/><rect y="64" width="12" height="12" rx="2" class="lvl-2"/><rect y="80" width="12" height="12" rx="2" class="lvl-1"/><rect y="96" width="12" height="12" rx="2" class="lvl-4"/>
+    </g>
+    <!-- Week 33 -->
+    <g transform="translate(544, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-0"/><rect y="16" width="12" height="12" rx="2" class="lvl-2"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-1"/><rect y="64" width="12" height="12" rx="2" class="lvl-0"/><rect y="80" width="12" height="12" rx="2" class="lvl-3"/><rect y="96" width="12" height="12" rx="2" class="lvl-2"/>
+    </g>
+    <!-- Week 34 -->
+    <g transform="translate(561, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-3"/><rect y="16" width="12" height="12" rx="2" class="lvl-4"/><rect y="32" width="12" height="12" rx="2" class="lvl-2"/><rect y="48" width="12" height="12" rx="2" class="lvl-0"/><rect y="64" width="12" height="12" rx="2" class="lvl-1"/><rect y="80" width="12" height="12" rx="2" class="lvl-4"/><rect y="96" width="12" height="12" rx="2" class="lvl-3"/>
+    </g>
+    <!-- Week 35 -->
+    <g transform="translate(578, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-1"/><rect y="16" width="12" height="12" rx="2" class="lvl-1"/><rect y="32" width="12" height="12" rx="2" class="lvl-0"/><rect y="48" width="12" height="12" rx="2" class="lvl-2"/><rect y="64" width="12" height="12" rx="2" class="lvl-3"/><rect y="80" width="12" height="12" rx="2" class="lvl-2"/><rect y="96" width="12" height="12" rx="2" class="lvl-1"/>
+    </g>
+    <!-- Week 36 -->
+    <g transform="translate(595, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-2"/><rect y="16" width="12" height="12" rx="2" class="lvl-3"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-4"/><rect y="64" width="12" height="12" rx="2" class="lvl-3"/><rect y="80" width="12" height="12" rx="2" class="lvl-1"/><rect y="96" width="12" height="12" rx="2" class="lvl-0"/>
+    </g>
+    <!-- Week 37 -->
+    <g transform="translate(612, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-0"/><rect y="16" width="12" height="12" rx="2" class="lvl-2"/><rect y="32" width="12" height="12" rx="2" class="lvl-1"/><rect y="48" width="12" height="12" rx="2" class="lvl-3"/><rect y="64" width="12" height="12" rx="2" class="lvl-4"/><rect y="80" width="12" height="12" rx="2" class="lvl-4"/><rect y="96" width="12" height="12" rx="2" class="lvl-2"/>
+    </g>
+    <!-- Week 38 -->
+    <g transform="translate(629, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-4"/><rect y="16" width="12" height="12" rx="2" class="lvl-1"/><rect y="32" width="12" height="12" rx="2" class="lvl-0"/><rect y="48" width="12" height="12" rx="2" class="lvl-2"/><rect y="64" width="12" height="12" rx="2" class="lvl-3"/><rect y="80" width="12" height="12" rx="2" class="lvl-1"/><rect y="96" width="12" height="12" rx="2" class="lvl-4"/>
+    </g>
+    <!-- Week 39 -->
+    <g transform="translate(646, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-1"/><rect y="16" width="12" height="12" rx="2" class="lvl-3"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-2"/><rect y="64" width="12" height="12" rx="2" class="lvl-0"/><rect y="80" width="12" height="12" rx="2" class="lvl-2"/><rect y="96" width="12" height="12" rx="2" class="lvl-3"/>
+    </g>
+    <!-- Week 40 -->
+    <g transform="translate(663, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-3"/><rect y="16" width="12" height="12" rx="2" class="lvl-2"/><rect y="32" width="12" height="12" rx="2" class="lvl-1"/><rect y="48" width="12" height="12" rx="2" class="lvl-4"/><rect y="64" width="12" height="12" rx="2" class="lvl-4"/><rect y="80" width="12" height="12" rx="2" class="lvl-3"/><rect y="96" width="12" height="12" rx="2" class="lvl-1"/>
+    </g>
+    <!-- Week 41 -->
+    <g transform="translate(680, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-0"/><rect y="16" width="12" height="12" rx="2" class="lvl-1"/><rect y="32" width="12" height="12" rx="2" class="lvl-0"/><rect y="48" width="12" height="12" rx="2" class="lvl-2"/><rect y="64" width="12" height="12" rx="2" class="lvl-3"/><rect y="80" width="12" height="12" rx="2" class="lvl-4"/><rect y="96" width="12" height="12" rx="2" class="lvl-2"/>
+    </g>
+    <!-- Week 42 -->
+    <g transform="translate(697, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-2"/><rect y="16" width="12" height="12" rx="2" class="lvl-4"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-3"/><rect y="64" width="12" height="12" rx="2" class="lvl-1"/><rect y="80" width="12" height="12" rx="2" class="lvl-0"/><rect y="96" width="12" height="12" rx="2" class="lvl-1"/>
+    </g>
+    <!-- Week 43 -->
+    <g transform="translate(714, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-1"/><rect y="16" width="12" height="12" rx="2" class="lvl-0"/><rect y="32" width="12" height="12" rx="2" class="lvl-2"/><rect y="48" width="12" height="12" rx="2" class="lvl-4"/><rect y="64" width="12" height="12" rx="2" class="lvl-3"/><rect y="80" width="12" height="12" rx="2" class="lvl-2"/><rect y="96" width="12" height="12" rx="2" class="lvl-4"/>
+    </g>
+    <!-- Week 44 -->
+    <g transform="translate(731, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-3"/><rect y="16" width="12" height="12" rx="2" class="lvl-2"/><rect y="32" width="12" height="12" rx="2" class="lvl-3"/><rect y="48" width="12" height="12" rx="2" class="lvl-1"/><rect y="64" width="12" height="12" rx="2" class="lvl-0"/><rect y="80" width="12" height="12" rx="2" class="lvl-4"/><rect y="96" width="12" height="12" rx="2" class="lvl-2"/>
+    </g>
+    <!-- Week 45 -->
+    <g transform="translate(748, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-2"/><rect y="16" width="12" height="12" rx="2" class="lvl-4"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-2"/><rect y="64" width="12" height="12" rx="2" class="lvl-1"/><rect y="80" width="12" height="12" rx="2" class="lvl-0"/><rect y="96" width="12" height="12" rx="2" class="lvl-3"/>
+    </g>
+    <!-- Week 46 -->
+    <g transform="translate(765, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-0"/><rect y="16" width="12" height="12" rx="2" class="lvl-1"/><rect y="32" width="12" height="12" rx="2" class="lvl-2"/><rect y="48" width="12" height="12" rx="2" class="lvl-3"/><rect y="64" width="12" height="12" rx="2" class="lvl-4"/><rect y="80" width="12" height="12" rx="2" class="lvl-2"/><rect y="96" width="12" height="12" rx="2" class="lvl-1"/>
+    </g>
+    <!-- Week 47 -->
+    <g transform="translate(782, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-1"/><rect y="16" width="12" height="12" rx="2" class="lvl-3"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-4"/><rect y="64" width="12" height="12" rx="2" class="lvl-2"/><rect y="80" width="12" height="12" rx="2" class="lvl-1"/><rect y="96" width="12" height="12" rx="2" class="lvl-0"/>
+    </g>
+    <!-- Week 48 -->
+    <g transform="translate(799, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-4"/><rect y="16" width="12" height="12" rx="2" class="lvl-2"/><rect y="32" width="12" height="12" rx="2" class="lvl-1"/><rect y="48" width="12" height="12" rx="2" class="lvl-0"/><rect y="64" width="12" height="12" rx="2" class="lvl-3"/><rect y="80" width="12" height="12" rx="2" class="lvl-4"/><rect y="96" width="12" height="12" rx="2" class="lvl-2"/>
+    </g>
+    <!-- Week 49 -->
+    <g transform="translate(816, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-2"/><rect y="16" width="12" height="12" rx="2" class="lvl-0"/><rect y="32" width="12" height="12" rx="2" class="lvl-3"/><rect y="48" width="12" height="12" rx="2" class="lvl-4"/><rect y="64" width="12" height="12" rx="2" class="lvl-4"/><rect y="80" width="12" height="12" rx="2" class="lvl-2"/><rect y="96" width="12" height="12" rx="2" class="lvl-4"/>
+    </g>
+    <!-- Week 50 -->
+    <g transform="translate(833, 0)">
+      <rect y="0" width="12" height="12" rx="2" class="lvl-1"/><rect y="16" width="12" height="12" rx="2" class="lvl-2"/><rect y="32" width="12" height="12" rx="2" class="lvl-4"/><rect y="48" width="12" height="12" rx="2" class="lvl-3"/><rect y="64" width="12" height="12" rx="2" class="lvl-1"/><rect y="80" width="12" height="12" rx="2" class="lvl-0"/><rect y="96" width="12" height="12" rx="2" class="lvl-2"/>
+    </g>
+  </g>
+
+  <!-- Heatmap Legend -->
+  <g transform="translate(710, 206)">
+    <text x="-40" y="9" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="9" letter-spacing="0.5">LESS</text>
+    <rect x="0" y="0" width="10" height="10" rx="2" class="lvl-0"/>
+    <rect x="15" y="0" width="10" height="10" rx="2" class="lvl-1"/>
+    <rect x="30" y="0" width="10" height="10" rx="2" class="lvl-2"/>
+    <rect x="45" y="0" width="10" height="10" rx="2" class="lvl-3"/>
+    <rect x="60" y="0" width="10" height="10" rx="2" class="lvl-4"/>
+    <text x="80" y="9" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="9" letter-spacing="0.5">MORE</text>
+  </g>
+</svg>
