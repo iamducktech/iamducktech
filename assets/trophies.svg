@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 220" width="100%" height="100%">
+  <rect width="920" height="220" rx="12" fill="#050505"/>
+  <rect x="1" y="1" width="918" height="218" rx="11" fill="#080808" stroke="#202722" stroke-width="1"/>
+
+  <!-- Module Header -->
+  <g transform="translate(32, 26)">
+    <text x="0" y="14" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="2">08 // MILESTONES</text>
+    <text x="0" y="34" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="17" font-weight="800" letter-spacing="1">TROPHY ROOM &amp; ACHIEVEMENTS</text>
+  </g>
+  <line x1="32" y1="72" x2="888" y2="72" stroke="#202722" stroke-width="1"/>
+
+  <!-- 4 Trophy Display Cards -->
+
+  <!-- SLOT 01 -->
+  <g transform="translate(32, 90)">
+    <rect width="198" height="105" rx="6" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+    <!-- Technical Vector Badge -->
+    <polygon points="26,20 34,20 38,26 34,32 26,32 22,26" fill="none" stroke="#AFE746" stroke-width="1.5"/>
+    <circle cx="30" cy="26" r="2" fill="#AFE746"/>
+    <text x="48" y="29" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" letter-spacing="1">TIER_S</text>
+    <text x="18" y="58" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">PULL SHARK</text>
+    <text x="18" y="78" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="10.5">Automated CI &amp; PR Flow</text>
+    <rect x="18" y="88" width="162" height="4" rx="2" fill="#161C18"/>
+    <rect x="18" y="88" width="162" height="4" rx="2" fill="#AFE746"/>
+  </g>
+
+  <!-- SLOT 02 -->
+  <g transform="translate(252, 90)">
+    <rect width="198" height="105" rx="6" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+    <polygon points="26,20 34,20 38,26 34,32 26,32 22,26" fill="none" stroke="#AFE746" stroke-width="1.5"/>
+    <circle cx="30" cy="26" r="2" fill="#AFE746"/>
+    <text x="48" y="29" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" letter-spacing="1">TIER_A</text>
+    <text x="18" y="58" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">QUICKDRAW</text>
+    <text x="18" y="78" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="10.5">Rapid Issue Resolution</text>
+    <rect x="18" y="88" width="162" height="4" rx="2" fill="#161C18"/>
+    <rect x="18" y="88" width="140" height="4" rx="2" fill="#7FAF32"/>
+  </g>
+
+  <!-- SLOT 03 -->
+  <g transform="translate(472, 90)">
+    <rect width="198" height="105" rx="6" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+    <polygon points="26,20 34,20 38,26 34,32 26,32 22,26" fill="none" stroke="#AFE746" stroke-width="1.5"/>
+    <circle cx="30" cy="26" r="2" fill="#AFE746"/>
+    <text x="48" y="29" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" letter-spacing="1">TIER_A</text>
+    <text x="18" y="58" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">YOLO SHIPPER</text>
+    <text x="18" y="78" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="10.5">Direct Branch Releases</text>
+    <rect x="18" y="88" width="162" height="4" rx="2" fill="#161C18"/>
+    <rect x="18" y="88" width="150" height="4" rx="2" fill="#7FAF32"/>
+  </g>
+
+  <!-- SLOT 04 -->
+  <g transform="translate(692, 90)">
+    <rect width="198" height="105" rx="6" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+    <polygon points="26,20 34,20 38,26 34,32 26,32 22,26" fill="none" stroke="#7FAF32" stroke-width="1.5"/>
+    <circle cx="30" cy="26" r="2" fill="#7FAF32"/>
+    <text x="48" y="29" fill="#7FAF32" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" letter-spacing="1">STANDBY</text>
+    <text x="18" y="58" fill="#B8C0BA" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">ARCTIC VAULT</text>
+    <text x="18" y="78" fill="#737B75" font-family="'JetBrains Mono', monospace" font-size="10.5">Code Preserved 02/2020</text>
+    <rect x="18" y="88" width="162" height="4" rx="2" fill="#161C18"/>
+    <rect x="18" y="88" width="162" height="4" rx="2" fill="#3F571B"/>
+  </g>
+</svg>
