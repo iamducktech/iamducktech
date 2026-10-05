@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 480" width="100%" height="100%">
+  <defs>
+    <pattern id="dot-pattern" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#202722" fill-opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <rect width="920" height="480" rx="12" fill="#050505"/>
+  <rect x="1" y="1" width="918" height="478" rx="11" fill="#080808" stroke="#202722" stroke-width="1"/>
+  <rect x="2" y="2" width="916" height="476" rx="11" fill="url(#dot-pattern)"/>
+
+  <!-- Module Title Bar -->
+  <g transform="translate(32, 28)">
+    <text x="0" y="14" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="2">02 // TECHNICAL MATRIX</text>
+    <text x="0" y="34" fill="#F2F5F2" font-family="'JetBrains Mono', monospace" font-size="18" font-weight="800" letter-spacing="1">ENGINEERING STACK</text>
+  </g>
+  <line x1="32" y1="78" x2="888" y2="78" stroke="#202722" stroke-width="1"/>
+
+  <!-- 6-Panel Grid (2 Rows x 3 Columns) -->
+
+  <!-- ROW 1, COL 1: LANGUAGES -->
+  <g transform="translate(32, 98)">
+    <rect width="270" height="165" rx="8" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+    <circle cx="18" cy="22" r="3" fill="#AFE746"/>
+    <text x="28" y="25" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="1.5">LANGUAGES</text>
+    <line x1="16" y1="36" x2="254" y2="36" stroke="#161C18" stroke-width="1"/>
+    
+    <g transform="translate(18, 56)" fill="#B8C0BA" font-family="'JetBrains Mono', monospace" font-size="12">
+      <text x="0" y="0"><tspan fill="#7FAF32">›</tspan> TypeScript</text>
+      <text x="130" y="0"><tspan fill="#7FAF32">›</tspan> C++</text>
+      <text x="0" y="28"><tspan fill="#7FAF32">›</tspan> JavaScript</text>
+      <text x="130" y="28"><tspan fill="#7FAF32">›</tspan> C#</text>
+      <text x="0" y="56"><tspan fill="#7FAF32">›</tspan> Python</text>
+      <text x="130" y="56"><tspan fill="#7FAF32">›</tspan> SQL</text>
+    </g>
+  </g>
+
+  <!-- ROW 1, COL 2: FRONTEND -->
+  <g transform="translate(325, 98)">
+    <rect width="270" height="165" rx="8" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+    <circle cx="18" cy="22" r="3" fill="#AFE746"/>
+    <text x="28" y="25" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="1.5">FRONTEND</text>
+    <line x1="16" y1="36" x2="254" y2="36" stroke="#161C18" stroke-width="1"/>
+
+    <g transform="translate(18, 56)" fill="#B8C0BA" font-family="'JetBrains Mono', monospace" font-size="12">
+      <text x="0" y="0"><tspan fill="#7FAF32">›</tspan> React</text>
+      <text x="130" y="0"><tspan fill="#7FAF32">›</tspan> Next.js</text>
+      <text x="0" y="28"><tspan fill="#7FAF32">›</tspan> HTML5</text>
+      <text x="130" y="28"><tspan fill="#7FAF32">›</tspan> CSS3</text>
+      <text x="0" y="56"><tspan fill="#7FAF32">›</tspan> Tailwind CSS</text>
+      <text x="130" y="56" fill="#737B75">UI/State</text>
+    </g>
+  </g>
+
+  <!-- ROW 1, COL 3: BACKEND -->
+  <g transform="translate(618, 98)">
+    <rect width="270" height="165" rx="8" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+    <circle cx="18" cy="22" r="3" fill="#AFE746"/>
+    <text x="28" y="25" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="1.5">BACKEND</text>
+    <line x1="16" y1="36" x2="254" y2="36" stroke="#161C18" stroke-width="1"/>
+
+    <g transform="translate(18, 56)" fill="#B8C0BA" font-family="'JetBrains Mono', monospace" font-size="12">
+      <text x="0" y="0"><tspan fill="#7FAF32">›</tspan> Node.js</text>
+      <text x="130" y="0"><tspan fill="#7FAF32">›</tspan> REST APIs</text>
+      <text x="0" y="28"><tspan fill="#7FAF32">›</tspan> WebSocket</text>
+      <text x="130" y="28"><tspan fill="#7FAF32">›</tspan> Socket.IO</text>
+      <text x="0" y="56"><tspan fill="#7FAF32">›</tspan> Microservices</text>
+      <text x="130" y="56" fill="#737B75">RPC / Async</text>
+    </g>
+  </g>
+
+  <!-- ROW 2, COL 1: DATA -->
+  <g transform="translate(32, 283)">
+    <rect width="270" height="165" rx="8" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+    <circle cx="18" cy="22" r="3" fill="#AFE746"/>
+    <text x="28" y="25" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="1.5">DATA &amp; CACHE</text>
+    <line x1="16" y1="36" x2="254" y2="36" stroke="#161C18" stroke-width="1"/>
+
+    <g transform="translate(18, 56)" fill="#B8C0BA" font-family="'JetBrains Mono', monospace" font-size="12">
+      <text x="0" y="0"><tspan fill="#7FAF32">›</tspan> MongoDB</text>
+      <text x="130" y="0"><tspan fill="#7FAF32">›</tspan> PostgreSQL</text>
+      <text x="0" y="28"><tspan fill="#7FAF32">›</tspan> Redis</text>
+      <text x="130" y="28"><tspan fill="#7FAF32">›</tspan> Schemas</text>
+      <text x="0" y="56"><tspan fill="#7FAF32">›</tspan> In-Memory</text>
+      <text x="130" y="56" fill="#737B75">Pub/Sub</text>
+    </g>
+  </g>
+
+  <!-- ROW 2, COL 2: SYSTEMS -->
+  <g transform="translate(325, 283)">
+    <rect width="270" height="165" rx="8" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+    <circle cx="18" cy="22" r="3" fill="#AFE746"/>
+    <text x="28" y="25" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="1.5">SYSTEMS</text>
+    <line x1="16" y1="36" x2="254" y2="36" stroke="#161C18" stroke-width="1"/>
+
+    <g transform="translate(18, 56)" fill="#B8C0BA" font-family="'JetBrains Mono', monospace" font-size="12">
+      <text x="0" y="0"><tspan fill="#7FAF32">›</tspan> C++</text>
+      <text x="130" y="0"><tspan fill="#7FAF32">›</tspan> Sockets</text>
+      <text x="0" y="28"><tspan fill="#7FAF32">›</tspan> TCP / IP</text>
+      <text x="130" y="28"><tspan fill="#7FAF32">›</tspan> Linux</text>
+      <text x="0" y="56"><tspan fill="#7FAF32">›</tspan> Windows</text>
+      <text x="130" y="56" fill="#737B75">Protocols</text>
+    </g>
+  </g>
+
+  <!-- ROW 2, COL 3: INFRASTRUCTURE -->
+  <g transform="translate(618, 283)">
+    <rect width="270" height="165" rx="8" fill="#0D100F" stroke="#202722" stroke-width="1"/>
+    <circle cx="18" cy="22" r="3" fill="#AFE746"/>
+    <text x="28" y="25" fill="#AFE746" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="1.5">INFRASTRUCTURE</text>
+    <line x1="16" y1="36" x2="254" y2="36" stroke="#161C18" stroke-width="1"/>
+
+    <g transform="translate(18, 56)" fill="#B8C0BA" font-family="'JetBrains Mono', monospace" font-size="12">
+      <text x="0" y="0"><tspan fill="#7FAF32">›</tspan> Linux VPS</text>
+      <text x="130" y="0"><tspan fill="#7FAF32">›</tspan> Nginx</text>
+      <text x="0" y="28"><tspan fill="#7FAF32">›</tspan> PM2</text>
+      <text x="130" y="28"><tspan fill="#7FAF32">›</tspan> Git CI/CD</text>
+      <text x="0" y="56"><tspan fill="#7FAF32">›</tspan> Production</text>
+      <text x="130" y="56" fill="#737B75">Monitoring</text>
+    </g>
+  </g>
+</svg>
