@@ -1,111 +1,78 @@
 <div align="center">
 
-# Duck
-
-### Full-Stack & Systems Developer
-
-Building **web platforms, game infrastructure, automation tools, and software products.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=220&section=header&text=Duck&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20Systems%20Developer&descAlignY=58&descSize=20&animation=twinkling"/>
 
 <br>
 
 <a href="https://github.com/iamducktech">
-  <img src="https://img.shields.io/github/followers/iamducktech?style=flat-square&label=Followers&color=18181b" />
+<img src="https://img.shields.io/github/followers/iamducktech?style=for-the-badge&logo=github&label=Followers&color=7F00FF"/>
 </a>
 &nbsp;
 <a href="https://github.com/iamducktech?tab=repositories">
-  <img src="https://img.shields.io/github/stars/iamducktech?style=flat-square&label=Stars&color=18181b" />
+<img src="https://img.shields.io/github/stars/iamducktech?style=for-the-badge&logo=github&label=Stars&color=00C6FF"/>
 </a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=iamducktech&style=for-the-badge&color=00F5A0&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br>
 
----
+<div align="center">
 
-## `> whoami`
+## Building software that **actually does something.**
 
-I'm a developer focused on turning ideas into **real, production-ready software**.
+**Web platforms · Systems · Game infrastructure · Automation · Developer tools**
 
-My work spans the entire stack — from interfaces and APIs to databases, networking, automation, and server infrastructure.
+<br>
 
-I enjoy projects where software has to **actually do something**: process data, communicate in real time, automate workflows, interact with external platforms, or operate reliably in production.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=00C6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Development;Backend+%26+Systems+Engineering;Game+Servers+%26+Networking;Automation+%26+Browser+Tools;From+Idea+to+Production" />
 
-```text
-Concept
-   ↓
-Architecture
-   ↓
-Implementation
-   ↓
-Infrastructure
-   ↓
-Production
-```
+</div>
 
 ---
 
-## What I Build
+## ⚡ About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-### Web Platforms
+### I build across the stack.
 
-Full-stack applications, marketplaces and user-facing products.
+I'm a **Full-Stack & Systems Developer** focused on turning ideas into production-ready software.
 
-`React` · `Next.js` · `Node.js` · `TypeScript`
+I work across:
 
-</td>
-<td width="50%">
+* **Frontend** — modern interfaces & web applications
+* **Backend** — APIs, real-time systems & business logic
+* **Systems** — networking, servers & performance
+* **Automation** — eliminating repetitive workflows
+* **Infrastructure** — deployment, monitoring & production
 
-### Game Infrastructure
-
-Game servers, networking systems and competitive gaming tools.
-
-`C++` · `Networking` · `Sockets` · `Linux`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Automation
-
-Tools designed to eliminate repetitive work and streamline workflows.
-
-`TypeScript` · `APIs` · `Automation`
+I like understanding the **whole system**, not just one layer of it.
 
 </td>
-<td width="50%">
 
-### Browser Software
+<td width="45%" valign="top">
 
-Extensions and platform integrations built around existing ecosystems.
+### Current Focus
 
-`JavaScript` · `TypeScript` · `Browser APIs`
+```text
+▸ Web Platforms
+▸ Game Infrastructure
+▸ Automation
+▸ Browser Extensions
+▸ Backend Systems
+▸ Networking
+▸ Production Infrastructure
+```
 
-</td>
-</tr>
+<br>
 
-<tr>
-<td width="50%">
-
-### Backend Systems
-
-APIs, real-time services, databases and distributed application logic.
-
-`Node.js` · `MongoDB` · `PostgreSQL` · `Redis`
-
-</td>
-<td width="50%">
-
-### Infrastructure
-
-Deploying, maintaining and optimizing software in production.
-
-`Linux` · `Nginx` · `PM2` · `Git`
+<img src="https://img.shields.io/badge/BUILDING-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHIPPING-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPTIMIZING-00F5A0?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -113,148 +80,205 @@ Deploying, maintaining and optimizing software in production.
 
 ---
 
-## Technology
+# 🧰 Technology
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,cs,python" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
-
-### Backend & Data
-
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,redis" />
-
-### Infrastructure & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,nginx,git,github,vscode" />
-
-</div>
-
----
-
-## Engineering Focus
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  SOFTWARE                                                     │
-│                                                              │
-│  Frontend ─────── Backend ─────── Database                   │
-│       │               │                │                     │
-│       └───────────────┼────────────────┘                     │
-│                       │                                      │
-│                  Real-Time Logic                             │
-│                       │                                      │
-│              APIs / WebSockets / Data                        │
-│                       │                                      │
-│                  Infrastructure                              │
-│                       │                                      │
-│                 Production Systems                           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-I tend to work at the intersection of **product development and systems engineering**.
-
-That means thinking about not only how something looks, but also:
-
-* how it communicates
-* how data flows through the system
-* how it behaves under load
-* how it can be automated
-* how it is deployed
-* how it can be maintained
-
----
-
-## Selected Work
-
-<div align="center">
-
-<a href="https://github.com/iamducktech">
-<img src="https://github-readme-stats.vercel.app/api?username=iamducktech&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&rank_icon=github" height="170"/>
-</a>
-
-<a href="https://github.com/iamducktech">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamducktech&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e" height="170"/>
-</a>
-
-</div>
-
----
-
-## Current Areas
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**01**
-
-<br>
-
-`Web`
-
-</td>
-<td align="center" width="25%">
-
-**02**
-
-<br>
-
-`Systems`
-
-</td>
-<td align="center" width="25%">
-
-**03**
-
-<br>
-
-`Automation`
-
-</td>
-<td align="center" width="25%">
-
-**04**
-
-<br>
-
-`Game Tech`
-
-</td>
-</tr>
-</table>
-
----
-
-## Philosophy
-
-> **Build useful things. Keep the architecture simple. Ship it.**
-
-I prefer solving problems with practical engineering rather than adding complexity for the sake of complexity.
-
-**Less abstraction. More control. Better software.**
-
----
-
-<div align="center">
-
-### Let's build something.
-
-<br>
-
-<a href="https://github.com/iamducktech">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,cs,python" height="55"/>
 
 <br><br>
 
-<sub>Design · Build · Ship</sub>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" height="55"/>
+
+<br><br>
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,redis" height="55"/>
+
+<br><br>
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github" height="55"/>
+
+</div>
+
+---
+
+# 🚀 What I Build
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/web.png"/>
+
+### Web Platforms
+
+Modern full-stack applications, marketplaces and production services.
+
+`React` `Next.js` `Node.js`
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/server.png"/>
+
+### Systems
+
+Servers, networking, real-time communication and performance-critical software.
+
+`C++` `Sockets` `Linux`
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/automation.png"/>
+
+### Automation
+
+Tools that remove repetitive work and connect different platforms.
+
+`TypeScript` `APIs` `Automation`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/chrome.png"/>
+
+### Browser Tools
+
+Extensions and integrations designed around existing platforms.
+
+`JavaScript` `TypeScript`
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/database.png"/>
+
+### Backend
+
+APIs, databases, real-time services and application architecture.
+
+`Node.js` `MongoDB` `PostgreSQL`
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/cloud.png"/>
+
+### Infrastructure
+
+Deploying and maintaining software that needs to stay online.
+
+`Linux` `Nginx` `PM2` `Git`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧠 Engineering Mindset
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=900&color=7F00FF&center=true&vCenter=true&width=800&lines=Architecture+before+complexity.;Performance+where+it+matters.;Automate+what+shouldn't+be+manual.;Build+it.+Test+it.+Ship+it.;Simple+systems+scale+better." />
+
+</div>
+
+<br>
+
+```text
+                         ┌──────────────┐
+                         │     IDEA     │
+                         └──────┬───────┘
+                                │
+                                ▼
+                     ┌────────────────────┐
+                     │    ARCHITECTURE    │
+                     └─────────┬──────────┘
+                               │
+                 ┌─────────────┼─────────────┐
+                 ▼             ▼             ▼
+            ┌─────────┐   ┌─────────┐   ┌──────────┐
+            │ FRONTEND│   │ BACKEND │   │ SYSTEMS  │
+            └────┬────┘   └────┬────┘   └────┬─────┘
+                 │             │             │
+                 └─────────────┼─────────────┘
+                               ▼
+                       ┌───────────────┐
+                       │  PRODUCTION   │
+                       └───────────────┘
+```
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamducktech&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamducktech&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=iamducktech&theme=tokyonight&hide_border=true&border_radius=16" />
+
+</div>
+
+---
+
+# 🌐 Find Me
+
+<div align="center">
+
+<a href="https://github.com/iamducktech">
+<img src="https://img.shields.io/badge/GitHub-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://t.me/your_handle">
+<img src="https://img.shields.io/badge/Telegram-00C6FF?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://linkedin.com/in/your_profile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `Design → Build → Optimize → Ship`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00C6FF,100:7F00FF&height=120&section=footer"/>
 
 </div>
